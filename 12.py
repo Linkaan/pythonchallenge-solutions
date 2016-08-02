@@ -11,4 +11,4 @@ for i in range(0, len(bytes), 5):
     images[j].write(bytes[i + j])
 
 
-disproportionality
+#disproportionality
